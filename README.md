@@ -12,3 +12,5 @@ from there only <br>
  JAVASCRIPT LEET METRIX CODE :  https://asthatapriya.github.io/leet_metrics_js/  <br><br>
  LINK 5 : <br>
  JAVASCRIPT FUNCTIONAL MYNTRA CLONE :  https://asthatapriya.github.io/myntra_clone_js/   <br><br>
+ LINK 6 : <br>
+ MY PORTFOLIO : https://asthatapriya.github.io/portfolio/
