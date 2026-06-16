@@ -1,6 +1,6 @@
 # my_websites
 
-This is my readme file which conatins the link of all of my websites which I created till now . I am sharing the link of all my live websites so that you'll check it out<br>
+This is my readme file which conatins the link of all of my websites which I have created till now . I am sharing the link of all my live websites so that you'll check it out<br>
 from there only <br>
  LINK 1 : <br>
  HTML PAGE : https://asthatapriya.github.io/html_website_viratkohli/ <br> <br>
